@@ -1,0 +1,15 @@
+.list_item {
+    color: #636e72;
+    font-size: 18px;
+    padding-top: 20px;
+}
+
+li:hover {
+    cursor: pointer;
+}
+
+.titleListItem {
+    color: #636e72;
+    margin-left: 20px;
+}
+
